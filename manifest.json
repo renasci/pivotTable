@@ -17,9 +17,9 @@
       "iconUrl": "https://url.png",
       "infoUrl": "https://url",
       "resource": {
-        "js": "gs://myViz-bucket-treemap/viz.js",
-        "config": "gs://myViz-bucket-treemap/viz-config.json",
-        "css": "gs://myViz-bucket-treemap/viz.css"
+        "js": "https://renasci.github.io/pivotTable/index.js",
+        "config": "https://renasci.github.io/pivotTable/config.json",
+        "css": "https://renasci.github.io/pivotTable/style.css"
       }
     }
   ]
