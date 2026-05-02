@@ -1,0 +1,26 @@
+{
+  "name": "Pivot Table",
+  "organization": "Pivot Table",
+  "description": "Pivot Table.",
+  "logoUrl": "https://url",
+  "organizationUrl": "https://url",
+  "supportUrl": "https://url",
+  "privacyPolicyUrl": "https://url",
+  "termsOfServiceUrl": "https://url",
+  "packageUrl": "https://url",
+  "devMode": true,
+  "components": [
+    {
+      "id": "pivotTable",
+      "name": "pivot Table",
+      "description": "pivot Table",
+      "iconUrl": "https://url.png",
+      "infoUrl": "https://url",
+      "resource": {
+        "js": "gs://myViz-bucket-treemap/viz.js",
+        "config": "gs://myViz-bucket-treemap/viz-config.json",
+        "css": "gs://myViz-bucket-treemap/viz.css"
+      }
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@google/dscc-gen": "^2.0.31"
+  }
+}
